@@ -186,7 +186,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       const Text(
-                        "Hesabın yok mu? ",
+                        "Hesabın yok mu ",
                         style: TextStyle(color: Colors.grey),
                       ),
                       GestureDetector(
